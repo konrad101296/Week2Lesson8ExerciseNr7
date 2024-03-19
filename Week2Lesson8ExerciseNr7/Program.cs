@@ -1,4 +1,4 @@
-﻿Console.WriteLine("podaj ile linijek ma miec diament: ");
+﻿Console.WriteLine("enter how many lines the diamond should have: ");
 int lenght = int.Parse(Console.ReadLine());
 int divided = lenght / 2;
 int space = lenght / 2;
